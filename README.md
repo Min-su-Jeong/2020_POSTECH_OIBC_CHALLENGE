@@ -30,7 +30,7 @@
 ## 대회 수상
 - 본 팀은 '민군인' 팀명으로 위와 같은 대회에 참가하여 '우수상(+특별상)'을 수상하였습니다.
 - Repository는 해당 대회에서 직접 구현하여 사용한 코드입니다.
-- [최종결과](https://user-images.githubusercontent.com/74342121/124072384-ab050e80-da7b-11eb-95e3-5d715328974c.PNG)  [상장](https://github.com/Min-su-Jeong/2020_POSTECH_OPEN_INNOVATION_BIG_DATA_CHALLENGE/files/6745735/default.pdf)
+- [최종결과](https://user-images.githubusercontent.com/74342121/124072384-ab050e80-da7b-11eb-95e3-5d715328974c.PNG)
 <br/>
 
 ## 함께한 팀원
