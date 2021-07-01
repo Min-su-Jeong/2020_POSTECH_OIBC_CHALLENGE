@@ -1,4 +1,4 @@
-# 2020_POSTECH_OPEN_INNOVATION_BIG_DATA_CHALLENGE 대회 참가
+## 2020_POSTECH_OPEN_INNOVATION_BIG_DATA_CHALLENGE 대회 참가
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74342121/124064210-48a61100-da6f-11eb-834a-1f6e996bca0b.jpg" width="250" height="350">
